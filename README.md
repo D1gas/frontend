@@ -1,3 +1,2 @@
 # frontend
-qualque merda
-Rafael é um ótimo professor (pfv me aprova)
+luis é um pessimo professor
